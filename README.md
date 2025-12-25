@@ -23,11 +23,13 @@
 
 ---
 
-## 📷 Demo
+## 📦 Project Structure
 
-> *(Add your live demo or screenshot here if hosted)*  
-> Example:  
-> `![Converter Screenshot](screenshots/converter_ui.png)`
+Text-to-HTML-Converter/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
 
 ---
 
